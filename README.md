@@ -1,4 +1,4 @@
-# 📦 UNISIP — Enterprise Inventory & Command Center
+# Enterprise Inventory & Command Center
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-v18+-blue.svg)](https://reactjs.org/)
@@ -6,7 +6,7 @@
 [![AWS](https://img.shields.io/badge/AWS-CloudFront%20%7C%20EC2%20%7C%20S3-orange.svg)](https://aws.amazon.com/)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
-**UNISIP** is a full-stack, cloud-native inventory management and monitoring platform designed to streamline stock tracking, client order fulfillment, and automated stockout prevention.
+Its is a full-stack, cloud-native inventory management and monitoring platform designed to streamline stock tracking, client order fulfillment, and automated stockout prevention.
 
 By bridging a dual-portal interface, automated background consumption auditing, financial balance tracking, and enterprise cloud routing, UNISIP eliminates operational friction and provides total visibility into supply chain metrics.
 
